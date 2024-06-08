@@ -1,0 +1,544 @@
+{
+  "id": "01HZTPAPVX24D4MNM36C17877D",
+  "name": "endruil",
+  "manufacturer": "helgederenthal",
+  "description": "",
+  "tags": [],
+  "controller": "0xcb-helios",
+  "keyboardType": "splitOnewire",
+  "wiringMethod": "direct",
+  "diodeDirection": "",
+  "rows": 0,
+  "cols": 0,
+  "pins": 18,
+  "rowPins": [],
+  "colPins": [],
+  "directPins": [
+    "13",
+    "28",
+    "12",
+    "29",
+    "0",
+    "22",
+    "14",
+    "26",
+    "4",
+    "27",
+    "21",
+    "23",
+    "7",
+    "20",
+    "6",
+    "16",
+    "9",
+    "8"
+  ],
+  "encoders": [],
+  "layouts": [],
+  "keys": [
+    {
+      "x": -1.25,
+      "y": 0,
+      "idx": 0
+    },
+    {
+      "x": -0.25,
+      "y": 0,
+      "idx": 1
+    },
+    {
+      "x": 0.75,
+      "y": 0,
+      "idx": 2
+    },
+    {
+      "x": 1.75,
+      "y": 0,
+      "idx": 3
+    },
+    {
+      "x": 2.75,
+      "y": 0,
+      "idx": 4
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "idx": 5
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "idx": 6
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "idx": 7
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "idx": 8
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "idx": 9
+    },
+    {
+      "x": -1.25,
+      "y": 1,
+      "idx": 10
+    },
+    {
+      "x": -0.25,
+      "y": 1,
+      "idx": 11
+    },
+    {
+      "x": 0.75,
+      "y": 1,
+      "idx": 12
+    },
+    {
+      "x": 1.75,
+      "y": 1,
+      "idx": 13
+    },
+    {
+      "x": 2.75,
+      "y": 1,
+      "idx": 14
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "idx": 15
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "idx": 16
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "idx": 17
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "idx": 18
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "idx": 19
+    },
+    {
+      "x": -1.25,
+      "y": 2,
+      "idx": 20
+    },
+    {
+      "x": -0.25,
+      "y": 2,
+      "idx": 21
+    },
+    {
+      "x": 0.75,
+      "y": 2,
+      "idx": 22
+    },
+    {
+      "x": 1.75,
+      "y": 2,
+      "idx": 23
+    },
+    {
+      "x": 2.75,
+      "y": 2,
+      "idx": 24
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "idx": 25
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "idx": 26
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "idx": 27
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "idx": 28
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "idx": 29
+    },
+    {
+      "x": 0.75,
+      "y": 3,
+      "idx": 30
+    },
+    {
+      "x": 1.75,
+      "y": 3,
+      "idx": 31
+    },
+    {
+      "x": 2.75,
+      "y": 3,
+      "idx": 32
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "idx": 33
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "idx": 34
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "idx": 35
+    }
+  ],
+  "keymap": [
+    [
+      "KC.Q",
+      "KC.W",
+      "KC.F",
+      "KC.P",
+      "KC.B",
+      "KC.J",
+      "KC.L",
+      "KC.U",
+      "KC.Z",
+      "KC.SQDQ",
+      "KC.HT(KC.A, KC.LGUI, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.R, KC.LALT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.S, KC.LCTRL, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.T, KC.LSFT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.G",
+      "KC.M",
+      "KC.HT(KC.N, KC.LSFT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.E, KC.LCTRL, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.I, KC.LALT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.O, KC.LGUI, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.Y",
+      "KC.X",
+      "KC.C",
+      "KC.D",
+      "KC.V",
+      "KC.K",
+      "KC.H",
+      "KC.COLT",
+      "KC.DOGT",
+      "KC.SLQU",
+      "KC.LT(1, KC.ESC, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.LT(2, KC.SPC, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.LT(3, KC.TAB, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.LT(4, KC.ENT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.LT(5, KC.BSPC, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.LT(6, KC.DEL, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)"
+    ],
+    [
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.HT(KC.MPRV, KC.LGUI, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.VOLD, KC.LALT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.VOLU, KC.LCTRL, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.MNXT, KC.LSFT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.NO",
+      "KC.NO",
+      "KC.MPRV",
+      "KC.VOLD",
+      "KC.VOLU",
+      "KC.MNXT",
+      "KC.NO",
+      "KC.NO",
+      "KC.MUTE",
+      "KC.MPLY",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.MSTP",
+      "KC.MPLY",
+      "KC.MUTE"
+    ],
+    [
+      "KC.LCTL(KC.Y)",
+      "KC.LCTL(KC.X)",
+      "KC.LCTL(KC.C)",
+      "KC.LCTL(KC.V)",
+      "KC.LCTL(KC.Z)",
+      "KC.LCTL(KC.Z)",
+      "KC.LCTL(KC.V)",
+      "KC.LCTL(KC.C)",
+      "KC.LCTL(KC.X)",
+      "KC.LCTL(KC.Y)",
+      "KC.LGUI",
+      "KC.LALT",
+      "KC.LCTL",
+      "KC.LSFT",
+      "KC.DEL",
+      "KC.CAPS",
+      "KC.LEFT",
+      "KC.DOWN",
+      "KC.UP",
+      "KC.RIGHT",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.INSERT",
+      "KC.HOME",
+      "KC.PGDOWN",
+      "KC.PGUP",
+      "KC.END",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.ENT",
+      "KC.BSPC",
+      "KC.DEL"
+    ],
+    [
+      "KC.NUMLOCK",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.LCTL(KC.Z)",
+      "KC.LCTL(KC.V)",
+      "KC.LCTL(KC.C)",
+      "KC.LCTL(KC.X)",
+      "KC.LCTL(KC.Y)",
+      "KC.LGUI",
+      "KC.LALT",
+      "KC.LCTL",
+      "KC.LSFT",
+      "KC.NO",
+      "KC.TRNS",
+      "KC.MS_LEFT",
+      "KC.MS_DOWN",
+      "KC.MS_UP",
+      "KC.MS_RIGHT",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.TRNS",
+      "KC.MW_LEFT",
+      "KC.MW_DOWN",
+      "KC.MW_UP",
+      "KC.MW_RIGHT",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.MB_RMB",
+      "KC.MB_LMB",
+      "KC.MB_MMB"
+    ],
+    [
+      "KC.RALT(KC.N7)",
+      "KC.LSFT(KC.N6)",
+      "KC.LSFT(KC.RBRC)",
+      "KC.LSFT(KC.N8)",
+      "KC.RALT(KC.N0)",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.LSFT(KC.DOT)",
+      "KC.LSFT(KC.N4)",
+      "KC.LSFT(KC.N5)",
+      "KC.GRV",
+      "KC.RBRACKET",
+      "KC.NO",
+      "KC.RSFT",
+      "KC.RCTL",
+      "KC.LALT",
+      "KC.RGUI",
+      "KC.RALT(KC.RBRACKET)",
+      "KC.LSFT(KC.N1)",
+      "KC.RALT(KC.Q)",
+      "KC.NUHS",
+      "KC.RALT(KC.NUBS)",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.LSFT(KC.N8)",
+      "KC.LSFT(KC.N9)",
+      "KC.LSFT(KC.SLASH)",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO"
+    ],
+    [
+      "KC.RALT(KC.N8)",
+      "KC.N7",
+      "KC.N8",
+      "KC.N9",
+      "KC.RALT(KC.N9)",
+      "KC.RALT(KC.E)",
+      "KC.EQUAL",
+      "KC.LSFT(KC.QUOT)",
+      "KC.LSFT(KC.LBRC)",
+      "KC.LSFT(KC.SCOLON)",
+      "KC.LSFT(KC.COMMA)",
+      "KC.N4",
+      "KC.N5",
+      "KC.N6",
+      "KC.LSFT(KC.N0)",
+      "KC.LSFT(KC.GRV)",
+      "KC.HT(KC.MINUS, KC.LSFT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.QUOT, KC.LCTRL, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.LBRC, KC.LALT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.SCOLON, KC.LGUI, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.LSFT(KC.EQUAL)",
+      "KC.N1",
+      "KC.N2",
+      "KC.N3",
+      "KC.RALT(KC.MINUS)",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.DOT",
+      "KC.N0",
+      "KC.SLSH",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO"
+    ],
+    [
+      "KC.F12",
+      "KC.F7",
+      "KC.F8",
+      "KC.F9",
+      "KC.PSCREEN",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.F11",
+      "KC.F4",
+      "KC.F5",
+      "KC.F6",
+      "KC.SCROLLLOCK",
+      "KC.NO",
+      "KC.LSFT",
+      "KC.LCTL",
+      "KC.LALT",
+      "KC.LGUI",
+      "KC.F10",
+      "KC.F1",
+      "KC.F2",
+      "KC.F3",
+      "KC.PAUSE",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO",
+      "KC.APP",
+      "KC.SPC",
+      "KC.TAB",
+      "KC.NO",
+      "KC.NO",
+      "KC.NO"
+    ]
+  ],
+  "encoderKeymap": [],
+  "layers": [
+    {
+      "name": "Default"
+    },
+    {
+      "name": "Media",
+      "color": "#ff00ea"
+    },
+    {
+      "name": "Navigation",
+      "color": "#42aac2"
+    },
+    {
+      "name": "Mouse",
+      "color": "#e9cf25"
+    },
+    {
+      "name": "Symbols",
+      "color": "#0ca508"
+    },
+    {
+      "name": "Numbers",
+      "color": "#1a1e9e"
+    },
+    {
+      "name": "Function",
+      "color": "#aa2727"
+    }
+  ],
+  "split": true,
+  "splitPinA": "1",
+  "splitPinB": "",
+  "splitSide": "left",
+  "vbusPin": "VBUS_SENSE",
+  "coordMap": [
+    ["000", "001", "002", "003", "004", "018", "019", "020", "021", "022"],
+    ["005", "006", "007", "008", "009", "023", "024", "025", "026", "027"],
+    ["010", "011", "012", "013", "014", "028", "029", "030", "031", "032"],
+    ["spc", "spc", "015", "016", "017", "033", "034", "035", "spc", "spc"]
+  ],
+  "pinPrefix": "gp",
+  "coordMapSetup": false,
+  "rgbPin": "",
+  "rgbNumLeds": 0,
+  "kbFeatures": [
+    "basic",
+    "serial",
+    "oneshot",
+    "tapdance",
+    "holdtap",
+    "mousekeys",
+    "combos"
+  ],
+  "flashingMode": "automatic",
+  "lastEdited": "2024-06-09 00:24"
+}
