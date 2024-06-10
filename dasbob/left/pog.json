@@ -1,5 +1,5 @@
 {
-  "id": "01HZTPAPVX24D4MNM36C17877D",
+  "id": "01J00T64P3MR3Z2TGC1K5G2VKR",
   "name": "DASBOB",
   "manufacturer": "GroooveBob",
   "description": "",
@@ -37,182 +37,182 @@
   "layouts": [],
   "keys": [
     {
-      "x": -1.25,
+      "x": 0,
       "y": 0,
       "idx": 0
     },
     {
-      "x": -0.25,
+      "x": 1,
       "y": 0,
       "idx": 1
     },
     {
-      "x": 0.75,
+      "x": 2,
       "y": 0,
       "idx": 2
     },
     {
-      "x": 1.75,
+      "x": 3,
       "y": 0,
       "idx": 3
     },
     {
-      "x": 2.75,
+      "x": 4,
       "y": 0,
       "idx": 4
     },
     {
-      "x": 5,
+      "x": 6.25,
       "y": 0,
       "idx": 5
     },
     {
-      "x": 6,
+      "x": 7.25,
       "y": 0,
       "idx": 6
     },
     {
-      "x": 7,
+      "x": 8.25,
       "y": 0,
       "idx": 7
     },
     {
-      "x": 8,
+      "x": 9.25,
       "y": 0,
       "idx": 8
     },
     {
-      "x": 9,
+      "x": 10.25,
       "y": 0,
       "idx": 9
     },
     {
-      "x": -1.25,
+      "x": 0,
       "y": 1,
       "idx": 10
     },
     {
-      "x": -0.25,
+      "x": 1,
       "y": 1,
       "idx": 11
     },
     {
-      "x": 0.75,
+      "x": 2,
       "y": 1,
       "idx": 12
     },
     {
-      "x": 1.75,
+      "x": 3,
       "y": 1,
       "idx": 13
     },
     {
-      "x": 2.75,
+      "x": 4,
       "y": 1,
       "idx": 14
     },
     {
-      "x": 5,
+      "x": 6.25,
       "y": 1,
       "idx": 15
     },
     {
-      "x": 6,
+      "x": 7.25,
       "y": 1,
       "idx": 16
     },
     {
-      "x": 7,
+      "x": 8.25,
       "y": 1,
       "idx": 17
     },
     {
-      "x": 8,
+      "x": 9.25,
       "y": 1,
       "idx": 18
     },
     {
-      "x": 9,
+      "x": 10.25,
       "y": 1,
       "idx": 19
     },
     {
-      "x": -1.25,
+      "x": 0,
       "y": 2,
       "idx": 20
     },
     {
-      "x": -0.25,
+      "x": 1,
       "y": 2,
       "idx": 21
     },
     {
-      "x": 0.75,
+      "x": 2,
       "y": 2,
       "idx": 22
     },
     {
-      "x": 1.75,
+      "x": 3,
       "y": 2,
       "idx": 23
     },
     {
-      "x": 2.75,
+      "x": 4,
       "y": 2,
       "idx": 24
     },
     {
-      "x": 5,
+      "x": 6.25,
       "y": 2,
       "idx": 25
     },
     {
-      "x": 6,
+      "x": 7.25,
       "y": 2,
       "idx": 26
     },
     {
-      "x": 7,
+      "x": 8.25,
       "y": 2,
       "idx": 27
     },
     {
-      "x": 8,
+      "x": 9.25,
       "y": 2,
       "idx": 28
     },
     {
-      "x": 9,
+      "x": 10.25,
       "y": 2,
       "idx": 29
     },
     {
-      "x": 0.75,
+      "x": 2,
       "y": 3,
       "idx": 30
     },
     {
-      "x": 1.75,
+      "x": 3,
       "y": 3,
       "idx": 31
     },
     {
-      "x": 2.75,
+      "x": 4,
       "y": 3,
       "idx": 32
     },
     {
-      "x": 5,
+      "x": 6.25,
       "y": 3,
       "idx": 33
     },
     {
-      "x": 6,
+      "x": 7.25,
       "y": 3,
       "idx": 34
     },
     {
-      "x": 7,
+      "x": 8.25,
       "y": 3,
       "idx": 35
     }
@@ -229,16 +229,16 @@
       "KC.U",
       "KC.Z",
       "KC.SQDQ",
-      "KC.HT(KC.A, KC.LGUI, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.R, KC.LALT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.S, KC.LCTRL, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.T, KC.LSFT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.A, KC.LGUI, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.R, KC.LALT, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.S, KC.LCTRL, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.T, KC.LSFT, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
       "KC.G",
       "KC.M",
-      "KC.HT(KC.N, KC.LSFT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.E, KC.LCTRL, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.I, KC.LALT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.O, KC.LGUI, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.N, KC.LSFT, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.E, KC.LCTRL, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.I, KC.LALT, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.O, KC.LGUI, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
       "KC.Y",
       "KC.X",
       "KC.C",
@@ -249,12 +249,12 @@
       "KC.COLT",
       "KC.DOGT",
       "KC.SLQU",
-      "KC.LT(1, KC.ESC, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.LT(2, KC.SPC, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.LT(3, KC.TAB, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.LT(4, KC.ENT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.LT(5, KC.BSPC, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.LT(6, KC.DEL, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)"
+      "KC.LT(1, KC.ESC, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.LT(2, KC.SPC, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.LT(3, KC.TAB, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.LT(4, KC.ENT, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.LT(5, KC.BSPC, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.LT(6, KC.DEL, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)"
     ],
     [
       "KC.NO",
@@ -267,10 +267,10 @@
       "KC.NO",
       "KC.NO",
       "KC.NO",
-      "KC.HT(KC.MPRV, KC.LGUI, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.VOLD, KC.LALT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.VOLU, KC.LCTRL, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.MNXT, KC.LSFT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.MPRV, KC.LGUI, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.VOLD, KC.LALT, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.VOLU, KC.LCTRL, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.MNXT, KC.LSFT, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
       "KC.NO",
       "KC.NO",
       "KC.MPRV",
@@ -425,10 +425,10 @@
       "KC.N6",
       "KC.LSFT(KC.N0)",
       "KC.LSFT(KC.GRV)",
-      "KC.HT(KC.MINUS, KC.LSFT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.QUOT, KC.LCTRL, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.LBRC, KC.LALT, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
-      "KC.HT(KC.SCOLON, KC.LGUI, prefer_hold=False, tap_interrupted=True, tap_time=180, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.MINUS, KC.LSFT, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.QUOT, KC.LCTRL, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.LBRC, KC.LALT, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
+      "KC.HT(KC.SCOLON, KC.LGUI, prefer_hold=True, tap_interrupted=True, tap_time=200, repeat=HoldTapRepeat.TAP)",
       "KC.LSFT(KC.EQUAL)",
       "KC.N1",
       "KC.N2",
@@ -540,5 +540,5 @@
     "combos"
   ],
   "flashingMode": "automatic",
-  "lastEdited": "2024-06-09 00:24"
+  "lastEdited": "2024-06-10 12:17"
 }
